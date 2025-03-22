@@ -97,5 +97,3 @@ model IndustryInsight {
 
   @@index([industry])
 }
-
-ClerkTester1!@
